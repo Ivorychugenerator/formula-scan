@@ -1,0 +1,50 @@
+{
+    "name":  "formula-scan",
+    "logo":  "➗",
+    "exe":  "FormulaScan.exe",
+    "desc":  "Free, open-source math OCR for Windows — photos of formulas and handwriting to LaTeX offline. 100 MB portable, MIT, no page limits.",
+    "topics":  [
+                   "math-ocr",
+                   "formula-recognition",
+                   "latex",
+                   "handwriting",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "batch-recognition",
+                   "mathml",
+                   "students",
+                   "research",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Formula to LaTeX** — photograph an equation and get editable LaTeX in the clipboard",
+                     "✅ **Handwritten support** — lecture notes and whiteboard scribbles recognized, not just printed print",
+                     "✅ **Live render preview** — see the typeset formula beside the photo to catch recognition mistakes",
+                     "✅ **Batch pages** — a folder of note photos converted into one .tex document with page separators",
+                     "✅ **MathML and plain-text output** — for Word, web and script consumers, not just LaTeX users",
+                     "✅ **Correction pass** — nudge individual symbols the model got wrong with a symbol keyboard",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **formula-scan** | Mathpix | InftyReader | Manual typing |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Paid per month | Paid | Your time |",
+                    "| Open source | **Yes** | No | No | N/A",
+                    "| Unmetered use | **Yes** | Snip limits | License | N/A",
+                    "| Photos stay local | **Yes** | Upload | Yes | N/A",
+                    "| Batch pages to one .tex | **Yes** | Partial | Partial | Manual",
+                    "| Portable, no install | **Yes, 100 MB** | App and web | Installer | N/A"
+                ],
+    "faqQ":  "convert photos of math formulas to LaTeX offline and for free?",
+    "faqA":  "Mathpix is good and charges monthly with uploads, and hand-typing equations is the most expensive option of all. formula-scan recognizes printed and handwritten math locally, previews the typeset result and exports LaTeX or MathML. It is a 100 MB portable exe, MIT, no page limits.",
+    "s1":  "Dark recognizer (#121418, green #22C55E): photo of a handwritten integral left, rendered LaTeX right in matching layout, confidence chip at 0.96.",
+    "s2":  "Correction pass: symbol grid under the formula with two items highlighted amber, symbol keyboard panel below, apply button enabled.",
+    "s3":  "Batch pages: 34 note photos listed with recognition status, single .tex output checkbox checked, progress bar at 22 of 34, format dropdown reading LaTeX."
+}
